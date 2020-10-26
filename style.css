@@ -1,0 +1,17 @@
+a:link { color: green; }
+a:hover { color: #B9B9B9; }
+a:visited { color: #005B07; }
+a:active { color: #12AA00; }
+h1 { color: #DEBD19; }
+h2 { color: #C39E08; }
+h3 { color: #9C7E03; }
+ans { color: #088848; }
+// Pic Sizes
+img {
+  width: 300px;
+}
+.firstclass {
+  width: 100px;
+  border-radius: 33%;
+
+}
